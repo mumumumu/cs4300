@@ -1,0 +1,71 @@
+Test Queries:
+
+Single Term with few results - Shows that the program actually works and will return results sorted by the page rank
+	Enter a single term query: software
+1. (202) http://www.library.cornell.edu/resrch/citmanage
+	PageRank = 0.00555025940318
+	Title: Citation Management | Cornell University Library
+	Anchor Text: ['Citation Management Software:', 'Citation Management']
+2. (322) http://www.library.cornell.edu/visualresources/equipment
+	PageRank = 0.000912819299782
+	Title: Equipment & Software | Cornell University Library
+	Anchor Text: ['Equipment & Software']
+3. (327) http://www.library.cornell.edu/wheredoi/software.html
+	PageRank = 0.000711212313933
+	Title: Software in the Libraries
+	Anchor Text: ['http://www.library.cornell.edu/wheredoi/software.html']
+
+Term with many results - For terms with many results, the program will only return the top 10 results ordered by page rank.
+	Enter a single term query: library
+1. (0) http://www.library.cornell.edu/
+	PageRank = 0.0788928461013
+	Title: Home | Cornell University Library
+	Anchor Text: [' Parent Directory', 'SEARCH', 'Library catalog', 'bar_cul.gif', 'Library Catalog', 'Cornell University Library', 'catalog', 'Library', 'Home']
+2. (185) http://www.library.cornell.edu/myacct
+	PageRank = 0.0479947726661
+	Title: My Account | Cornell University Library
+	Anchor Text: ['My Account', 'http://www.library.cornell.edu/myacct']
+3. (178) http://www.library.cornell.edu/hours
+	PageRank = 0.0470790503309
+	Title: Hours and Maps | Cornell University Library
+	Anchor Text: ['Library \n        Hours', 'map', 'Hours and Maps', 'Visit Us', 'maps', 'Library Hours', 'Other Library Hours', 'Visit Us']
+4. (263) http://www.library.cornell.edu/svcs
+	PageRank = 0.0468072036867
+	Title: Library Services | Cornell University Library
+	Anchor Text: ['Library Services']
+5. (261) http://www.library.cornell.edu/services/email.html
+	PageRank = 0.0465393053712
+	Title: Libraries | Cornell University Library
+	Anchor Text: ['Libraries']
+6. (199) http://www.library.cornell.edu/resrch/
+	PageRank = 0.0465393053712
+	Title: Research Help | Cornell University Library
+	Anchor Text: ['Research Help', 'Research help pages']
+7. (195) http://www.library.cornell.edu/request/
+	PageRank = 0.0465393053712
+	Title: Requests | Cornell University Library
+	Anchor Text: ['Requests']
+8. (156) http://www.library.cornell.edu/culhelp
+	PageRank = 0.0465393053712
+	Title: Help | Cornell University Library
+	Anchor Text: ['Help']
+9. (155) http://www.library.cornell.edu/course
+	PageRank = 0.0465393053712
+	Title: Course Help | Cornell University Library
+	Anchor Text: ['Course Reserves', 'Course Help']
+10. (1) http://www.library.cornell.edu/aboutus
+	PageRank = 0.0465393053712
+	Title: About Us | Cornell University Library
+	Anchor Text: ['About Us']
+
+Multiple Term - Since the assignment stated the search function would only be used for single term queries, the program will not accept multi-termed queries even if there are possible results.
+	Enter a single term query: library software
+	No results found for - library software
+
+Invalid Term - Given an search term that does not occur in the pages, the program will tell you that no results could be found.
+	Enter a single term query: hack
+	No results found for - hack	
+
+Invalid + Valid Term - As before, the program only allows for single term queires, so even if the query contains one valid and one invalid term, it will no return any results.
+	Enter a single term query: software hack
+	No results found for - software hack

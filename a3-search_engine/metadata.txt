@@ -1,0 +1,1313 @@
+0. http://www.library.cornell.edu/
+	PageRank = 0.0788928461013
+	Title = Home | Cornell University Library
+	Anchor Text = [' Parent Directory', 'SEARCH', 'Library catalog', 'bar_cul.gif', 'Library Catalog', 'Cornell University Library', 'catalog', 'Library', 'Home']
+1. http://www.library.cornell.edu/aboutus
+	PageRank = 0.0465393053712
+	Title = About Us | Cornell University Library
+	Anchor Text = ['About Us']
+2. http://www.library.cornell.edu/aboutus/coll/strength/select
+	PageRank = 0.00127616597078
+	Title = Cornell University Library Selectors | Cornell University Library
+	Anchor Text = ['List of Subject Librarians', 'library staff who select materials', 'Contact List for Subject Librarians', 'Subject area specialists', 'selectors']
+3. http://www.library.cornell.edu/aboutus/collections
+	PageRank = 0.000912732411667
+	Title = Collections | Cornell University Library
+	Anchor Text = ['Collections']
+4. http://www.library.cornell.edu/aboutus/collections/strength
+	PageRank = 0.00499134387024
+	Title = Collections Overview | Cornell University Library
+	Anchor Text = ['Collections', 'Collection Strengths', 'Collections Overview', 'Library collections']
+5. http://www.library.cornell.edu/aboutus/collections/strength/special
+	PageRank = 0.000620676019208
+	Title = Special Collections | Cornell University Library
+	Anchor Text = ['Special Collections']
+6. http://www.library.cornell.edu/aboutus/culpartners
+	PageRank = 0.0019536872917
+	Title = Partnerships & Initiatives | Cornell University Library
+	Anchor Text = ['Partnerships & Initiatives']
+7. http://www.library.cornell.edu/aboutus/inside
+	PageRank = 0.00401757482971
+	Title = Inside the Library | Cornell University Library
+	Anchor Text = ['Inside the Library']
+8. http://www.library.cornell.edu/aboutus/inside/depts
+	PageRank = 0.00219810296796
+	Title = Central Departments | Cornell University Library
+	Anchor Text = ['Central Departments']
+9. http://www.library.cornell.edu/aboutus/inside/depts/ils
+	PageRank = 0.000819518772182
+	Title = Interlibrary Services | Cornell University Library
+	Anchor Text = ['Interlibrary Services', 'Interlibrary Loan']
+10. http://www.library.cornell.edu/aboutus/inside/history
+	PageRank = 0.00215456603319
+	Title = History and Purpose | Cornell University Library
+	Anchor Text = ['History and Purpose']
+11. http://www.library.cornell.edu/aboutus/inside/libraries
+	PageRank = 0.00279541894256
+	Title = Libraries | Cornell University Library
+	Anchor Text = ['List of Libraries', 'Libraries', 'contact the library', 'indvidual libraries', 'Unit Libraries', 'Individual Libraries']
+12. http://www.library.cornell.edu/aboutus/inside/policies
+	PageRank = 0.00215456603319
+	Title = Public Policies | Cornell University Library
+	Anchor Text = ['Public Policies']
+13. http://www.library.cornell.edu/aboutus/inside/publications
+	PageRank = 0.00215456603319
+	Title = Library Publications | Cornell University Library
+	Anchor Text = ['Library Publications']
+14. http://www.library.cornell.edu/aboutus/inside/strategicplanning
+	PageRank = 0.00215456603319
+	Title = Strategic Planning | Cornell University Library
+	Anchor Text = ['Strategic Plan']
+15. http://www.library.cornell.edu/aboutus/nondisclosure
+	PageRank = 0.000610653086712
+	Title = Nondisclosure Clauses | Cornell University Library
+	Anchor Text = ['Nondisclosure Clauses in Licenses']
+16. http://www.library.cornell.edu/aboutus/partners/Cornell%20Faculty%20and%20Programs
+	PageRank = 0.000672424105056
+	Title = Partnerships & Initiatives | Cornell University Library
+	Anchor Text = ['Cornell Faculty and Programs']
+17. http://www.library.cornell.edu/aboutus/partners/Corporate%20Partnerships
+	PageRank = 0.000672424105056
+	Title = Partnerships & Initiatives | Cornell University Library
+	Anchor Text = ['Corporate Partnerships']
+18. http://www.library.cornell.edu/aboutus/partners/Global%20Engagement
+	PageRank = 0.000672424105056
+	Title = Partnerships and Initiatives | Cornell University Library
+	Anchor Text = ['Global Engagement']
+19. http://www.library.cornell.edu/aboutus/partners/Other%20Universities%20and%20University%20Libraries
+	PageRank = 0.000672424105056
+	Title = Partnerships & Initiatives | Cornell University Library
+	Anchor Text = ['Other Universities and University Libraries']
+20. http://www.library.cornell.edu/aboutus/partners/othergrants
+	PageRank = 0.000810810288218
+	Title = Other Grants Received Recently | Cornell University Library
+	Anchor Text = ['Other Grants Received Recently', 'Other Grants']
+21. http://www.library.cornell.edu/aboutus/staff
+	PageRank = 0.000765823257604
+	Title = Staff | Cornell University Library
+	Anchor Text = ['Staff']
+22. http://www.library.cornell.edu/aboutus/staff/leg
+	PageRank = 0.00200018370377
+	Title = Library Executive Group | Cornell University Library
+	Anchor Text = ['Library Executive Group']
+23. http://www.library.cornell.edu/aboutus/staff/staffdir
+	PageRank = 0.00212825937335
+	Title = Staff Directory | Cornell University Library
+	Anchor Text = ['\x8b previous', '1', '\xab first', 'Staff Directory']
+24. http://www.library.cornell.edu/aboutus/staff/staffdir?page=1
+	PageRank = 0.000703160538889
+	Title = Staff Directory | Cornell University Library
+	Anchor Text = ['\x8b previous', '2', 'next \x9b']
+25. http://www.library.cornell.edu/aboutus/staff/staffdir?page=2
+	PageRank = 0.000703160538889
+	Title = Staff Directory | Cornell University Library
+	Anchor Text = ['\x8b previous', '3', 'next \x9b']
+26. http://www.library.cornell.edu/aboutus/staff/staffdir?page=3
+	PageRank = 0.000703160538889
+	Title = Staff Directory | Cornell University Library
+	Anchor Text = ['4', 'next \x9b', 'last \xbb']
+27. http://www.library.cornell.edu/aboutus/staff/ul
+	PageRank = 0.00203793649661
+	Title = University Librarian | Cornell University Library
+	Anchor Text = ['more...', 'University Librarian']
+28. http://www.library.cornell.edu/aboutus/staff/ul/pubs
+	PageRank = 0.000621810705507
+	Title = Selected Publications | Cornell University Library
+	Anchor Text = ['Selected publications']
+29. http://www.library.cornell.edu/aboutus/visit
+	PageRank = 0.00547266423736
+	Title = Visitor Information | Cornell University Library
+	Anchor Text = ['Visitor Information', 'For Visitors']
+30. http://www.library.cornell.edu/aboutus/visit/address
+	PageRank = 0.00228595619183
+	Title = Addresses | Cornell University Library
+	Anchor Text = ['Addresses']
+31. http://www.library.cornell.edu/aboutus/visit/priv
+	PageRank = 0.00264230015419
+	Title = Visitor Privileges | Cornell University Library
+	Anchor Text = ['Visitor Privileges', 'Visitors']
+32. http://www.library.cornell.edu/aboutus/visit/priv/guest
+	PageRank = 0.000942448847588
+	Title = Guest Borrowers | Cornell University Library
+	Anchor Text = ['Guest Borrower', 'http://www.library.cornell.edu/aboutus/visit/priv/guest', 'Guest Borrower Eligibility and Fees', 'Guest Borrower eligibility and fees']
+33. http://www.library.cornell.edu/aboutus/visit/weill
+	PageRank = 0.00258508004558
+	Title = Visitors from Weill Cornell Medical College | Cornell University Library
+	Anchor Text = ['Weill Visitors', 'Weill Cornell Medical College visitors']
+34. http://www.library.cornell.edu/accessiblesearch
+	PageRank = 0.0440402610732
+	Title = Search | Cornell University Library
+	Anchor Text = ['Search', 'Text-only Search Box']
+35. http://www.library.cornell.edu/Access_Services_Staff
+	PageRank = 0.00390092845209
+	Title = Access Services Staff | Cornell University Library
+	Anchor Text = ['reserves coordinator', 'Contact a Reserve Desk', 'Contact Us', 'circulation desk', 'contact the library', 'http://www.library.cornell.edu/Access_Services_Staff', 'Contact us']
+36. http://www.library.cornell.edu/Adminops/
+	PageRank = 0.000704725919159
+	Title = Cornell University Library Administrative Operations
+	Anchor Text = ['Library Administrative Operations', 'Administrative Operations']
+37. http://www.library.cornell.edu/Adminops/libhumres/diversitylinks.html
+	PageRank = 0.000488561011498
+	Title = Cornell University Library Human Resources
+	Anchor Text = []
+38. http://www.library.cornell.edu/Adminops/libhumres/employment.html
+	PageRank = 0.0019536872917
+	Title = Cornell University Library Human Resources
+	Anchor Text = ['Employment']
+39. http://www.library.cornell.edu/Adminops/libhumres/i9.html
+	PageRank = 0.00058036234819
+	Title = Cornell University Library Human Resources
+	Anchor Text = ['file an I-9 form']
+40. http://www.library.cornell.edu/africana/
+	PageRank = 0.00441244284386
+	Title = John Henrik Clarke Africana Library -- Cornell University
+	Anchor Text = ['Africana', 'John Henrik Clarke Africana Library', 'Africana Library', 'http://www.library.cornell.edu/africana']
+41. http://www.library.cornell.edu/africana/about/
+	PageRank = 0.00852983965875
+	Title = Inside--Africana Library, Cornell University
+	Anchor Text = ['Inside \n        the Library', 'Inside the Library']
+42. http://www.library.cornell.edu/africana/about/cdpolicy.html
+	PageRank = 0.00141152449988
+	Title = Collection Development Policy-- Africana Library, Cornell University
+	Anchor Text = ['Collection \n          Development Policy', 'Collections', 'Africana \n                  Library Collection Development Policy', 'collection']
+43. http://www.library.cornell.edu/africana/about/history.html
+	PageRank = 0.00136065630285
+	Title = History of JHC Library-- Africana Library, Cornell University
+	Anchor Text = ['History \n          of Africana Library', 'History \n          of the John Henrik Clarke Africana Library']
+44. http://www.library.cornell.edu/africana/about/info.html
+	PageRank = 0.00826194134323
+	Title = Information--Africana Library, Cornell University
+	Anchor Text = ['Contact', 'Information/Contact/Maps/Directions']
+45. http://www.library.cornell.edu/africana/about/library.html
+	PageRank = 0.00109275798733
+	Title = Library in the Life of Black People-- Africana Library, Cornell University
+	Anchor Text = ['The \n          Library in the Life of Black People']
+46. http://www.library.cornell.edu/africana/about/mission.html
+	PageRank = 0.00145354073177
+	Title = Mission-- Africana Library, Cornell University
+	Anchor Text = ['Mission \n          of the Africana Library', 'Africana \n          Library Mission', 'mission']
+47. http://www.library.cornell.edu/africana/about/mudcloth.html
+	PageRank = 0.00895609854586
+	Title = History, Origin and Significance of Mud Cloth--Africana Library, Cornell University
+	Anchor Text = ['Mud Cloth']
+48. http://www.library.cornell.edu/africana/audio/
+	PageRank = 0.000971918592161
+	Title = Audio Tape Collection--Africana Library, Cornell University
+	Anchor Text = ['Audio \n              Cassette Collection']
+49. http://www.library.cornell.edu/africana/cdrom/
+	PageRank = 0.000971918592161
+	Title = CD ROM Collection--Africana Library, Cornell University
+	Anchor Text = ['CD-ROM \n              Collection']
+50. http://www.library.cornell.edu/africana/clarke/
+	PageRank = 0.00826194134323
+	Title = John Henrik Clarke--Africana Library, Cornell University
+	Anchor Text = ['John \n          Henrik Clarke', 'Dr. \n          John Henrik Clarke', 'John \n        Henrik Clarke']
+51. http://www.library.cornell.edu/africana/collection/
+	PageRank = 0.00852983965875
+	Title = Collections-- Africana Library, Cornell University
+	Anchor Text = ['Collection']
+52. http://www.library.cornell.edu/africana/digital/
+	PageRank = 0.000971918592161
+	Title = Digital Historical Texts--Africana Library, Cornell University
+	Anchor Text = ['Digital \n              Historical Texts']
+53. http://www.library.cornell.edu/africana/faculty/guides.html
+	PageRank = 0.00131713367403
+	Title = Guides Prepared for Specific Classes--Africana Library, Cornell University
+	Anchor Text = ['Africana \n              Class Guides', 'Class \n          Library Guides']
+54. http://www.library.cornell.edu/africana/forms/instruction.html
+	PageRank = 0.000871312387306
+	Title = Library Instruction Request -- Africana Library, Cornell University
+	Anchor Text = ['Africana', 'Africana Library']
+55. http://www.library.cornell.edu/africana/friends/
+	PageRank = 0.00109275798733
+	Title = Friends of the Library--Africana Library, Cornell University
+	Anchor Text = ['Friends \n          of the Library']
+56. http://www.library.cornell.edu/africana/guides/
+	PageRank = 0.00857501942483
+	Title = Subject Guides--Africana Library, Cornell University
+	Anchor Text = ['Subject \n              Guides', 'Subject \n        Guides', 'Africana Guides', 'Subject \n          Guides']
+57. http://www.library.cornell.edu/africana/guides/afrcultural.html
+	PageRank = 0.00104923535851
+	Title = African Cultural Survivals-- Africana Library, Cornell University
+	Anchor Text = ['African \n              Cultural Survivals in America']
+58. http://www.library.cornell.edu/africana/guides/afrocentricity.html
+	PageRank = 0.000488561011498
+	Title = Afrocentricity-- Africana Library, Cornell University
+	Anchor Text = []
+59. http://www.library.cornell.edu/africana/guides/afrref.html
+	PageRank = 0.00104923535851
+	Title = Africa: General and Specialized Reference Books--Africana Library, Cornell University
+	Anchor Text = ['Africa: \n              General and Specialized Resources']
+60. http://www.library.cornell.edu/africana/guides/ancient.html
+	PageRank = 0.000488561011498
+	Title = Ancient African Civilizations--Africana Library, Cornell University
+	Anchor Text = []
+61. http://www.library.cornell.edu/africana/guides/indschools.html
+	PageRank = 0.00104923535851
+	Title = Black Independent Schools--Africana Library, Cornell University
+	Anchor Text = ['Black Independent Schools']
+62. http://www.library.cornell.edu/africana/guides/king.html
+	PageRank = 0.000488561011498
+	Title = Martin Luther King, Jr Bibliography--Africana Library, Cornell University
+	Anchor Text = []
+63. http://www.library.cornell.edu/africana/internet/africa.html
+	PageRank = 0.00104923535851
+	Title = African Studies Internet Resources--Africana Library, Cornell University
+	Anchor Text = ['African \n              Studies Internet Resources']
+64. http://www.library.cornell.edu/africana/internet/africamer.html
+	PageRank = 0.00104923535851
+	Title = African American Studies Internet Resources--Africana Library, Cornell University
+	Anchor Text = ['African \n              American Studies Internet Resources']
+65. http://www.library.cornell.edu/africana/library.html
+	PageRank = 0.000633130743676
+	Title = The New John Henrik Clarke Africana Library -- Africana Library, Cornell University
+	Anchor Text = ['http://www.library.cornell.edu/africana/library.html']
+66. http://www.library.cornell.edu/africana/microform/
+	PageRank = 0.000971918592161
+	Title = Microform Collection-- Africana Library, Cornell University
+	Anchor Text = ['Microform \n              Collection']
+67. http://www.library.cornell.edu/africana/newbooks/
+	PageRank = 0.000756459327018
+	Title = New Book List -- Africana Library, Cornell University
+	Anchor Text = ['New \n                    Books']
+68. http://www.library.cornell.edu/africana/newbooks/may2009.html
+	PageRank = 0.000488561011498
+	Title = New Materials, May 2009 --.Africana Library, Cornell University
+	Anchor Text = []
+69. http://www.library.cornell.edu/africana/news/
+	PageRank = 0.000971918592161
+	Title = Newspaper Collection-- Africana Library, Cornell University
+	Anchor Text = ['Newspaper \n              Collection']
+70. http://www.library.cornell.edu/africana/news/africannews.html
+	PageRank = 0.000703308618757
+	Title = African Newspapers on the Internet--Africana Library, Cornell University
+	Anchor Text = ['African \n              Newspapers on the Internet ', 'African \n          Newspapers on the Internet']
+71. http://www.library.cornell.edu/africana/per/
+	PageRank = 0.000971918592161
+	Title = Periodical Collection--Africana Library, Cornell University
+	Anchor Text = ['Periodical \n              Collection']
+72. http://www.library.cornell.edu/africana/thesis/
+	PageRank = 0.00138423008494
+	Title = Theses--Africana Library, Cornell University
+	Anchor Text = ['masters \n          degree', 'Africana \n              Graduate Theses', 'Theses \n          Introduction', 'Africana \n          Theses']
+73. http://www.library.cornell.edu/africana/thesis/author.html
+	PageRank = 0.00065774931706
+	Title = Theses, Author--Africana Library, Cornell University
+	Anchor Text = [' \n          Browse by Author', 'Browse \n            by Author']
+74. http://www.library.cornell.edu/africana/thesis/date.html
+	PageRank = 0.00065774931706
+	Title = Theses, Degree Date--Africana Library, Cornell University
+	Anchor Text = ['Browse \n            by Degree Date', 'Browse \n          by Degree Date']
+75. http://www.library.cornell.edu/africana/thesis/topics.html
+	PageRank = 0.000606220568719
+	Title = Theses, Topic--Africana Library, Cornell University
+	Anchor Text = ['Browse \n            by Topic']
+76. http://www.library.cornell.edu/africana/visual/
+	PageRank = 0.000971918592161
+	Title = Visual Collection--Africana Library, Cornell University
+	Anchor Text = ['Video/DVD \n              Collection']
+77. http://www.library.cornell.edu/annex/
+	PageRank = 0.00414550807061
+	Title = Library Annex | Cornell University Library
+	Anchor Text = ['Annex website', 'Library Annex', 'http://www.library.cornell.edu/annex', 'Annex']
+78. http://www.library.cornell.edu/annex/annexrequest
+	PageRank = 0.000983767624707
+	Title = Annex Requests | Cornell University Library
+	Anchor Text = ['Library Annex Request form', 'Library Annex Request Form', 'visitor request form', 'request form']
+79. http://www.library.cornell.edu/annex/AnnexTransferForm
+	PageRank = 0.000529483529982
+	Title = Library Annex Transfer Form | Cornell University Library
+	Anchor Text = ['Library Annex Request Form']
+80. http://www.library.cornell.edu/annex/closing
+	PageRank = 0.000529483529982
+	Title = Large Collections Shifts | Cornell University Library
+	Anchor Text = ['Large Collections Shifts']
+81. http://www.library.cornell.edu/annex/facilities
+	PageRank = 0.000973517100134
+	Title = Facilities | Cornell University Library
+	Anchor Text = ['Facilities', 'Facilities Overview']
+82. http://www.library.cornell.edu/annex/news
+	PageRank = 0.000981549029619
+	Title = News and Activities | Cornell University Library
+	Anchor Text = ['History']
+83. http://www.library.cornell.edu/annex/news/expansionproject
+	PageRank = 0.000544182123177
+	Title = Library Annex Expansion Project | Cornell University Library
+	Anchor Text = ['Library Annex Expansion Project']
+84. http://www.library.cornell.edu/annex/news/expansionproject/longoverview
+	PageRank = 0.00051290600122
+	Title = Expansion Overview (Long Version) | Cornell University Library
+	Anchor Text = ['long version']
+85. http://www.library.cornell.edu/annex/news/expansionproject/personnel
+	PageRank = 0.00051290600122
+	Title = Project Personnel | Cornell University Library
+	Anchor Text = ['Project personnel']
+86. http://www.library.cornell.edu/annex/news/expansionproject/publicity
+	PageRank = 0.00051290600122
+	Title = Publicity | Cornell University Library
+	Anchor Text = ['Publicity about the new LibraryAnnex']
+87. http://www.library.cornell.edu/annex/news/expansionproject/shortoverview
+	PageRank = 0.00051290600122
+	Title = Expansion Overview (Short Version) | Cornell University Library
+	Anchor Text = ['short version']
+88. http://www.library.cornell.edu/annex/news/movingproject
+	PageRank = 0.000544182123177
+	Title = Annex Moving Project | Cornell University Library
+	Anchor Text = ['Library Annex Moving Project (1996)']
+89. http://www.library.cornell.edu/annex/news/movingproject/projectteam
+	PageRank = 0.000552303834325
+	Title = Project Team Contact Information | Cornell University Library
+	Anchor Text = ['Project Team Contact Information', 'The Annex Project Planning Committee', 'Project Contact Information']
+90. http://www.library.cornell.edu/annex/news/movingproject/qa
+	PageRank = 0.000515770117657
+	Title = Q&A for the Annex Moving Project | Cornell University Library
+	Anchor Text = ['Questions & Answers']
+91. http://www.library.cornell.edu/annex/policies
+	PageRank = 0.0006740179515
+	Title = Policies: Cataloged Directly for the Library Annex | Cornell University Library
+	Anchor Text = ['Policies']
+92. http://www.library.cornell.edu/annex/procedures
+	PageRank = 0.000714940469983
+	Title = Annex Procedures | Cornell University Library
+	Anchor Text = ['Procedures']
+93. http://www.library.cornell.edu/annex/services
+	PageRank = 0.000851713201296
+	Title = Services | Cornell University Library
+	Anchor Text = ['Services']
+94. http://www.library.cornell.edu/annex/services/hours
+	PageRank = 0.000644370617579
+	Title = Hours and Staff Directory | Cornell University Library
+	Anchor Text = ['Hours and Staff Directory', ' Hours and Staff Directory']
+95. http://www.library.cornell.edu/annex/services/requests
+	PageRank = 0.00221124684523
+	Title = Library Annex Requests | Cornell University Library
+	Anchor Text = ['Library Annex Requests', 'Annex Requests', ' Annex Requests ', 'Annex Requests: Click Here!', 'Request for Book Delivery on Campus']
+96. http://www.library.cornell.edu/annex/staff_faqs
+	PageRank = 0.0006740179515
+	Title = Staff FAQs | Cornell University Library
+	Anchor Text = ['Staff FAQs']
+97. http://www.library.cornell.edu/ask/
+	PageRank = 0.00922898046125
+	Title = Ask a Librarian | Cornell University Library
+	Anchor Text = ['ask a librarian.', 'Ask a Librarian!', 'Ask a Librarian', 'ask a librarian']
+98. http://www.library.cornell.edu/ask/chatissues
+	PageRank = 0.000978850598502
+	Title = Chat Privacy & Confidentiality | Cornell University Library
+	Anchor Text = ['Your chat privacy']
+99. http://www.library.cornell.edu/ask/email
+	PageRank = 0.00369520133786
+	Title = Ask a Librarian - Email | Cornell University Library
+	Anchor Text = ['e-mail', 'E-mail Us', 'contact a librarian']
+100. http://www.library.cornell.edu/ask/phone
+	PageRank = 0.00131033638374
+	Title = Reference Desk Directory | Cornell University Library
+	Anchor Text = ['Phone Us', 'individual library']
+101. http://www.library.cornell.edu/citing/feedback
+	PageRank = 0.000783418542292
+	Title = Citation Management Help | Cornell University Library
+	Anchor Text = ['contact us', 'Send us your citation management question']
+102. http://www.library.cornell.edu/colldev/
+	PageRank = 0.000488561011498
+	Title = Index of /colldev
+	Anchor Text = []
+103. http://www.library.cornell.edu/colldev/cdafrica.html
+	PageRank = 0.000573197840539
+	Title = Collection Development Policy for Sub-Saharan Africa
+	Anchor Text = ['CD \n                Policy for Sub-Saharan Africa', 'African\nStudies']
+104. http://www.library.cornell.edu/colldev/cdamericanhistory.html
+	PageRank = 0.000501754459654
+	Title = American History Collection Policy
+	Anchor Text = ['American History']
+105. http://www.library.cornell.edu/colldev/cdancienthistory.html
+	PageRank = 0.000501754459654
+	Title = Ancient History Collection Policy
+	Anchor Text = ['Ancient History']
+106. http://www.library.cornell.edu/colldev/cdangloamerican.html
+	PageRank = 0.000501754459654
+	Title = Anglo-American Literature and
+Comparative Literature
+	Anchor Text = ['Anglo-American\nLiterature & Comparative Literature']
+107. http://www.library.cornell.edu/colldev/cdanthro.html
+	PageRank = 0.000501754459654
+	Title = Anthropology Collection Policy
+	Anchor Text = ['Anthropology']
+108. http://www.library.cornell.edu/colldev/cdarchaeology.html
+	PageRank = 0.000501754459654
+	Title = Archaeology Collection Policy
+	Anchor Text = ['Archaeology']
+109. http://www.library.cornell.edu/colldev/cdastronomy.html
+	PageRank = 0.000501754459654
+	Title = Astronomy Collection Policy
+	Anchor Text = ['Astronomy']
+110. http://www.library.cornell.edu/colldev/cdbibliography.html
+	PageRank = 0.000501754459654
+	Title = Bibliography & Information Science Collection Policy
+	Anchor Text = ['Bibliography and\nInformation Science']
+111. http://www.library.cornell.edu/colldev/cdbritishhistory.html
+	PageRank = 0.000501754459654
+	Title = British History Collection Policy
+	Anchor Text = ['British and\nCommonwealth History']
+112. http://www.library.cornell.edu/colldev/cdchemistry.html
+	PageRank = 0.000501754459654
+	Title = Chemistry Collection Policy
+	Anchor Text = ['Chemistry']
+113. http://www.library.cornell.edu/colldev/cdciser.html
+	PageRank = 0.000501754459654
+	Title = CISER Data Archive Collection Policy
+	Anchor Text = ['CISER \n            Data Archive']
+114. http://www.library.cornell.edu/colldev/cdclassics.html
+	PageRank = 0.000501754459654
+	Title = Classics Collection Policy
+	Anchor Text = ['Classics']
+115. http://www.library.cornell.edu/colldev/cddescript1.html
+	PageRank = 0.000501754459654
+	Title = About Collection Development at Cornell
+	Anchor Text = ['About\nCollection Development at Cornell University Library']
+116. http://www.library.cornell.edu/colldev/cdechols.html
+	PageRank = 0.000501754459654
+	Title = Echols Collection Development Policy
+	Anchor Text = ['Southeast Asian\nStudies']
+117. http://www.library.cornell.edu/colldev/cdeconomics.html
+	PageRank = 0.000501754459654
+	Title = Economics, Government and Sociology Collection Policy
+	Anchor Text = ['Economics, \n            Government & Sociology']
+118. http://www.library.cornell.edu/colldev/cdeurope.html
+	PageRank = 0.000501754459654
+	Title = Western European Social Sciences Collection Policy
+	Anchor Text = ['Western \n            European Social Sciences']
+119. http://www.library.cornell.edu/colldev/cdfinearts.html
+	PageRank = 0.000501754459654
+	Title = Fine Arts Collection Policy
+	Anchor Text = ['Fine Arts']
+120. http://www.library.cornell.edu/colldev/cdfrench.html
+	PageRank = 0.000501754459654
+	Title = French and Italian Language and Literature Collection Policy
+	Anchor Text = ['French \n              & Italian Language & Literature']
+121. http://www.library.cornell.edu/colldev/cdfrenchhistory.html
+	PageRank = 0.000501754459654
+	Title = French History Collection Policy
+	Anchor Text = ['French History']
+122. http://www.library.cornell.edu/colldev/cdgeneralhistory.html
+	PageRank = 0.000501754459654
+	Title = General History Collection Policy
+	Anchor Text = ['General History']
+123. http://www.library.cornell.edu/colldev/cdgeography.html
+	PageRank = 0.000501754459654
+	Title = Geography Collection Policy
+	Anchor Text = ['Geography']
+124. http://www.library.cornell.edu/colldev/cdhistoryofscience.html
+	PageRank = 0.000501754459654
+	Title = History of Science Collection Policy
+	Anchor Text = ['History of\nScience']
+125. http://www.library.cornell.edu/colldev/cdhome1.html
+	PageRank = 0.000791606889335
+	Title = Collection Development Policies
+	Anchor Text = ['Collection Policies by Subjects']
+126. http://www.library.cornell.edu/colldev/cdi&lr.html
+	PageRank = 0.000501754459654
+	Title = Industrial Relations
+	Anchor Text = ['Industrial & Labor Relations']
+127. http://www.library.cornell.edu/colldev/cdiberianhistory.html
+	PageRank = 0.000501754459654
+	Title = Iberian History Collection Policy
+	Anchor Text = ['Iberian History']
+128. http://www.library.cornell.edu/colldev/cdiberianlanguage.html
+	PageRank = 0.000501754459654
+	Title = Iberian Language and Literature Collection Policy
+	Anchor Text = ['Iberian \n              Language & Literature']
+129. http://www.library.cornell.edu/colldev/cdicelandic.html
+	PageRank = 0.000501754459654
+	Title = Icelandic Collection Policy
+	Anchor Text = ['Fiske Icelandic\nCollection']
+130. http://www.library.cornell.edu/colldev/cditalianhistory.html
+	PageRank = 0.000501754459654
+	Title = Italian History Collection Policy
+	Anchor Text = ['Italian \n            History']
+131. http://www.library.cornell.edu/colldev/cdjapan.html
+	PageRank = 0.000501754459654
+	Title = Collection Development Policy for Japan Studies
+	Anchor Text = ['Japanese Studies']
+132. http://www.library.cornell.edu/colldev/cdjewishstudies.html
+	PageRank = 0.000501754459654
+	Title = Jewish Studies Collection Policy
+	Anchor Text = ['Jewish \n            Studies']
+133. http://www.library.cornell.edu/colldev/cdjgsm.html
+	PageRank = 0.000501754459654
+	Title = Management Library Collection Policy
+	Anchor Text = ['Johnson School of Management']
+134. http://www.library.cornell.edu/colldev/cdlatinamerica.html
+	PageRank = 0.000501754459654
+	Title = Collection Development Policy for Latin American Studies
+	Anchor Text = ['Latin American Studies']
+135. http://www.library.cornell.edu/colldev/cdlinguistics.html
+	PageRank = 0.000501754459654
+	Title = Linguistics Collection Policy
+	Anchor Text = ['Linguisitcs']
+136. http://www.library.cornell.edu/colldev/cdmaps.html
+	PageRank = 0.000501754459654
+	Title = Cartographic Collection Policy
+	Anchor Text = ['Cartographic \n            Materials']
+137. http://www.library.cornell.edu/colldev/cdmath.html
+	PageRank = 0.000501754459654
+	Title = Mathematics Collection Policy
+	Anchor Text = ['Mathematics']
+138. http://www.library.cornell.edu/colldev/cdmedieval.html
+	PageRank = 0.000501754459654
+	Title = Medieval Studies Collection Policy
+	Anchor Text = ['Medieval \n            Studies']
+139. http://www.library.cornell.edu/colldev/cdmusic.html
+	PageRank = 0.000501754459654
+	Title = Music and Dance Collection Policy
+	Anchor Text = ['Music \n            and Dance']
+140. http://www.library.cornell.edu/colldev/cdnorthamericannewspapers.html
+	PageRank = 0.000501754459654
+	Title = North American Newspapers Collection Policy
+	Anchor Text = ['North American Newspapers']
+141. http://www.library.cornell.edu/colldev/cdnortheuropeanhistory.html
+	PageRank = 0.000501754459654
+	Title = North European History Collection Policy
+	Anchor Text = ['North \n            European History']
+142. http://www.library.cornell.edu/colldev/cdnortheuropeanlit.html
+	PageRank = 0.000501754459654
+	Title = North European Literature and Language Collection Policy
+	Anchor Text = ['North \n            European Language & Literature']
+143. http://www.library.cornell.edu/colldev/cdnumismatics.html
+	PageRank = 0.000501754459654
+	Title = Numismatics Collection Policy
+	Anchor Text = ['Numismatics']
+144. http://www.library.cornell.edu/colldev/cdphilosophy.html
+	PageRank = 0.000501754459654
+	Title = Philosophy Collection Policy
+	Anchor Text = ['Philosophy']
+145. http://www.library.cornell.edu/colldev/cdphysics.html
+	PageRank = 0.000501754459654
+	Title = Astronomy Collection Policy
+	Anchor Text = ['Physics']
+146. http://www.library.cornell.edu/colldev/cdpsychology.html
+	PageRank = 0.000501754459654
+	Title = Psychology Collection Policy
+	Anchor Text = ['Psychology']
+147. http://www.library.cornell.edu/colldev/cdreligion.html
+	PageRank = 0.000501754459654
+	Title = Religion Collection Policy
+	Anchor Text = ['Religion']
+148. http://www.library.cornell.edu/colldev/cdslavic.html
+	PageRank = 0.000501754459654
+	Title = Collection Development Policy for Slavic and East European Studies
+	Anchor Text = ['Slavic &\nEast European Studies']
+149. http://www.library.cornell.edu/colldev/cdsouthasia.html
+	PageRank = 0.000501754459654
+	Title = Collection Development Policy for South Asia
+	Anchor Text = ['South Asian Studies']
+150. http://www.library.cornell.edu/colldev/cdterms1.html
+	PageRank = 0.000501754459654
+	Title = Terms and Abbreviations Used in the Collection Development Policies
+	Anchor Text = ['Terms and\nAbbreviations']
+151. http://www.library.cornell.edu/colldev/cdwomensstudies.html
+	PageRank = 0.000501754459654
+	Title = Women's Studies Collection Policy
+	Anchor Text = ['Womens Studies']
+152. http://www.library.cornell.edu/colldev/giftpolicy.html
+	PageRank = 0.000501754459654
+	Title = Cornell University Library Gift Policy
+	Anchor Text = ['Gifts of\nBooks and Materials']
+153. http://www.library.cornell.edu/colldev/mideast/cd.htm
+	PageRank = 0.000501754459654
+	Title = CD-Pol
+	Anchor Text = ['Middle East & Islamic Studies']
+154. http://www.library.cornell.edu/compact/index.html
+	PageRank = 0.00227335906633
+	Title = Cornell Open Access Publishing Fund
+	Anchor Text = ['Cornell Open Access Publication (COAP) Fund', '- COAP', 'http://www.library.cornell.edu/compact/', 'Cornell Open-Access Publication Fund']
+155. http://www.library.cornell.edu/course
+	PageRank = 0.0465393053712
+	Title = Course Help | Cornell University Library
+	Anchor Text = ['Course Reserves', 'Course Help']
+156. http://www.library.cornell.edu/culhelp
+	PageRank = 0.0465393053712
+	Title = Help | Cornell University Library
+	Anchor Text = ['Help']
+157. http://www.library.cornell.edu/culhelp/conn
+	PageRank = 0.000488561011498
+	Title = Trouble Connecting | Cornell University Library
+	Anchor Text = []
+158. http://www.library.cornell.edu/culhelp/conn/sna
+	PageRank = 0.000488561011498
+	Title = Still Not Able to Connect? | Cornell University Library
+	Anchor Text = []
+159. http://www.library.cornell.edu/culhelp/faq
+	PageRank = 0.000488561011498
+	Title = Frequently Asked Questions | Cornell University Library
+	Anchor Text = []
+160. http://www.library.cornell.edu/dlit/
+	PageRank = 0.000488561011498
+	Title = DLIT - Division of Library Information Technologies | Cornell University Library
+	Anchor Text = []
+161. http://www.library.cornell.edu/DSS
+	PageRank = 0.00101374301967
+	Title = Digital Scholarship & Preservation Services | Cornell University Library
+	Anchor Text = ['Digital Scholarship & Preservation Services', 'Digital Scholarship Services (DSS)']
+162. http://www.library.cornell.edu/FallBreaks2011
+	PageRank = 0.00356680661006
+	Title = Fall Break:  Saturday, October 8 - Tuesday, October 11, 2011 Thanksgiving Recess:  Wednesday, November 23 - Sunday, November 27, 2011 | Cornell University Library
+	Anchor Text = ['Fall breaks']
+163. http://www.library.cornell.edu/FallHours2011
+	PageRank = 0.00356680661006
+	Title = Fall Semester:  Wednesday, August 24, 2011 - Friday, December 16, 2011 | Cornell University Library
+	Anchor Text = ['Fall hours']
+164. http://www.library.cornell.edu/finearts/
+	PageRank = 0.00543693288352
+	Title = Cornell University Fine Arts Library
+	Anchor Text = ['http://www.library.cornell.edu/finearts', 'Fine Arts Library', 'Home', 'Fine Arts']
+165. http://www.library.cornell.edu/finearts/apply/
+	PageRank = 0.00194402830642
+	Title = Student Employment at the Fine Arts Library
+	Anchor Text = ['Apply for a Student Job']
+166. http://www.library.cornell.edu/finearts/circulation/policy.html
+	PageRank = 0.00194402830642
+	Title = Circulation Policy
+	Anchor Text = ['Circulation']
+167. http://www.library.cornell.edu/finearts/circulation/reserve.html
+	PageRank = 0.00194402830642
+	Title = Course Reserves
+	Anchor Text = ['Reserve']
+168. http://www.library.cornell.edu/finearts/collections.html
+	PageRank = 0.00194402830642
+	Title = Collections
+	Anchor Text = ['Collections']
+169. http://www.library.cornell.edu/finearts/contacts.html
+	PageRank = 0.00194402830642
+	Title = Contacts
+	Anchor Text = ['Contacts']
+170. http://www.library.cornell.edu/finearts/equipment/
+	PageRank = 0.00194402830642
+	Title = AAP Equipment Cage at the Fine Arts Library
+	Anchor Text = ['Equipment Cage']
+171. http://www.library.cornell.edu/finearts/internetresources.html
+	PageRank = 0.00214261737892
+	Title = Internet Resources
+	Anchor Text = ['Internet Resources', 'Fine Arts Library Internet Resources']
+172. http://www.library.cornell.edu/finearts/laptop.html
+	PageRank = 0.00194402830642
+	Title = Laptop Loan Program
+	Anchor Text = ['Laptop Loan Program ']
+173. http://www.library.cornell.edu/finearts/main_faq.html
+	PageRank = 0.00194402830642
+	Title = Frequently Asked Questions
+	Anchor Text = ['FAQ']
+174. http://www.library.cornell.edu/finearts/purchaserequest.html
+	PageRank = 0.00194402830642
+	Title = Request Book Purchase
+	Anchor Text = ['Request Book Purchase']
+175. http://www.library.cornell.edu/finearts/reference.html
+	PageRank = 0.00232677968222
+	Title = Reference
+	Anchor Text = ['Fine Arts Library', 'Reference']
+176. http://www.library.cornell.edu/finearts/stacklocationguides.html
+	PageRank = 0.00194402830642
+	Title = Stack Location Guides
+	Anchor Text = ['Stack Location Guides']
+177. http://www.library.cornell.edu/getstarted
+	PageRank = 0.000756459327018
+	Title = Get Started | Cornell University Library
+	Anchor Text = ['Get Started']
+178. http://www.library.cornell.edu/hours
+	PageRank = 0.0470790503309
+	Title = Hours and Maps | Cornell University Library
+	Anchor Text = ['Library \n        Hours', 'map', 'Hours and Maps', 'Visit                Us', 'maps', 'Library Hours', 'Other \n              Library Hours', 'Visit Us']
+179. http://www.library.cornell.edu/ill/contactillstaff.html
+	PageRank = 0.000825887988702
+	Title = Olin Interlibrary Staff and Office Hours
+	Anchor Text = ['Contact']
+180. http://www.library.cornell.edu/ill/documentdeliveryexemptions.html
+	PageRank = 0.000565931568726
+	Title = None
+	Anchor Text = ['list of offices and locations']
+181. http://www.library.cornell.edu/ill/olinborrowing.html
+	PageRank = 0.000825887988702
+	Title = Olin Borrowing
+	Anchor Text = ['Policies']
+182. http://www.library.cornell.edu/ill/OlinILLmain.html
+	PageRank = 0.0011905658019
+	Title = Olin Interlibrary Services
+	Anchor Text = ['Olin Interlibrary Services']
+183. http://www.library.cornell.edu/index
+	PageRank = 0.000488561011498
+	Title = Home | Cornell University Library
+	Anchor Text = []
+184. http://www.library.cornell.edu/map
+	PageRank = 0.000638027377887
+	Title = Libraries on the Ithaca Campus | Cornell University Library
+	Anchor Text = ['Map of the Libraries']
+185. http://www.library.cornell.edu/myacct
+	PageRank = 0.0479947726661
+	Title = My Account | Cornell University Library
+	Anchor Text = ['My Account', 'http://www.library.cornell.edu/myacct']
+186. http://www.library.cornell.edu/okuaccess/annex/index.html
+	PageRank = 0.00051290600122
+	Title = Cornell Library Annex
+	Anchor Text = ['Library Annex']
+187. http://www.library.cornell.edu/practices/
+	PageRank = 0.000534497371466
+	Title = Library Practices on the collection, use, disclosure, maintenance and protection of personally-identifiable information  | Cornell University Library
+	Anchor Text = ['Library practices on the collection, use, disclosure, maintenance and protection of personally-identifiable information']
+188. http://www.library.cornell.edu/preservation/
+	PageRank = 0.00145930171197
+	Title = Cornell University Department of Preservation and Conservation Home Page
+	Anchor Text = ['Cornell \n          University Library', 'Department of Preservation and Collection Maintenance', 'Preservation and Collection Maintenance', 'Department of \n          Preservation and Conservation']
+189. http://www.library.cornell.edu/preservation/com/comfin.html
+	PageRank = 0.000526313804333
+	Title = Cornell University Department of Preservation and Conservation
+	Anchor Text = ['www.library.cornell.edu/preservation/com/comfin.html']
+190. http://www.library.cornell.edu/preservation/newdesign.css
+	PageRank = 0.000488561011498
+	Title = css
+	Anchor Text = []
+191. http://www.library.cornell.edu/preservation/tutorial/index.html
+	PageRank = 0.00090202982989
+	Title = Moving Theory into Practice: Digital Imaging Tutorial, Cornell University Library
+	Anchor Text = ['images/dit.gif']
+192. http://www.library.cornell.edu/privacy/
+	PageRank = 0.000648513317191
+	Title = Privacy and Confidentiality in the Cornell University Library | Cornell University Library
+	Anchor Text = ['Privacy and Confidentiality in the Cornell University Library']
+193. http://www.library.cornell.edu/recommend
+	PageRank = 0.000488561011498
+	Title = Make Your Own Recommendation | Cornell University Library
+	Anchor Text = []
+194. http://www.library.cornell.edu/Reps/DOCS/homepage.htm
+	PageRank = 0.000488561011498
+	Title = URBAN PLANNING, 1794-1918:
+	Anchor Text = []
+195. http://www.library.cornell.edu/request/
+	PageRank = 0.0465393053712
+	Title = Requests | Cornell University Library
+	Anchor Text = ['Requests']
+196. http://www.library.cornell.edu/request/classform
+	PageRank = 0.00647762925423
+	Title = Class Instruction | Cornell University Library
+	Anchor Text = ['Library instruction requests', 'Class Instruction for Faculty and Instructors', 'filling out this form']
+197. http://www.library.cornell.edu/request/reqm
+	PageRank = 0.000846369112024
+	Title = Request Materials | Cornell University Library
+	Anchor Text = ['Request']
+198. http://www.library.cornell.edu/request/techprob
+	PageRank = 0.000488561011498
+	Title = Still Not Able to Connect? | Cornell University Library
+	Anchor Text = []
+199. http://www.library.cornell.edu/resrch/
+	PageRank = 0.0465393053712
+	Title = Research Help | Cornell University Library
+	Anchor Text = ['Research Help', 'Research help pages']
+200. http://www.library.cornell.edu/resrch/citing
+	PageRank = 0.000563734561222
+	Title = Citing Sources | Cornell University Library
+	Anchor Text = ['Citing Sources']
+201. http://www.library.cornell.edu/resrch/citing/bibtut
+	PageRank = 0.00106127364315
+	Title = Annotated Bibliography Tutorial | Cornell University Library
+	Anchor Text = ['Annotated bibliography how-to', 'Annotated Bibliography Tutorial', 'Annotated bibliography tutorial']
+202. http://www.library.cornell.edu/resrch/citmanage
+	PageRank = 0.00555025940318
+	Title = Citation Management | Cornell University Library
+	Anchor Text = ['Citation Management Software:', 'Citation Management']
+203. http://www.library.cornell.edu/resrch/citmanage/apa
+	PageRank = 0.00118133930877
+	Title = APA Citation Style | Cornell University Library
+	Anchor Text = ['APA', 'APA Citation Style', 'APA citation style']
+204. http://www.library.cornell.edu/resrch/citmanage/code
+	PageRank = 0.000783418542292
+	Title = Code of Academic Integrity  | Cornell University Library
+	Anchor Text = ['Code of Academic Integrity']
+205. http://www.library.cornell.edu/resrch/citmanage/mla
+	PageRank = 0.00110883834036
+	Title = MLA Citation Style  | Cornell University Library
+	Anchor Text = ['MLA', 'MLA citation style']
+206. http://www.library.cornell.edu/resrch/current/
+	PageRank = 0.00537615107436
+	Title = Current Awareness | Cornell University Library
+	Anchor Text = ['Current Awareness']
+207. http://www.library.cornell.edu/resrch/current/toc/
+	PageRank = 0.000869371712599
+	Title = Table of Contents (TOC) Alerts  | Cornell University Library
+	Anchor Text = ['Table of Contents (TOC) Alerts']
+208. http://www.library.cornell.edu/resrch/intro/
+	PageRank = 0.0054968149475
+	Title = Introduction to Research | Cornell University Library
+	Anchor Text = ['Introduction to Research']
+209. http://www.library.cornell.edu/resrch/intro/articles
+	PageRank = 0.000734471153886
+	Title = Finding Articles, Databases and Images | Cornell University Library
+	Anchor Text = ['articles, databases, images']
+210. http://www.library.cornell.edu/resrch/intro/dissert
+	PageRank = 0.000734471153886
+	Title = Finding Dissertations | Cornell University Library
+	Anchor Text = ['dissertations']
+211. http://www.library.cornell.edu/resrch/intro/finding
+	PageRank = 0.000774899790797
+	Title = Finding Books, Music, Video and Audio Materials | Cornell University Library
+	Anchor Text = ['Finding Books', 'books, music, video and audio materials']
+212. http://www.library.cornell.edu/resrch/libguides
+	PageRank = 0.011669127845
+	Title = Library Guides | Cornell University Library
+	Anchor Text = ['Lib Guides, ', 'Library Guides']
+213. http://www.library.cornell.edu/resrch/libguides/1
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Agriculture']
+214. http://www.library.cornell.edu/resrch/libguides/12
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Economics']
+215. http://www.library.cornell.edu/resrch/libguides/13
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Education']
+216. http://www.library.cornell.edu/resrch/libguides/14
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Engineering']
+217. http://www.library.cornell.edu/resrch/libguides/15
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Environment and Natural Resources']
+218. http://www.library.cornell.edu/resrch/libguides/16
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Food and Nutrition']
+219. http://www.library.cornell.edu/resrch/libguides/17
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' General Interest and Reference']
+220. http://www.library.cornell.edu/resrch/libguides/18
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Geography, Maps and Spatial Data']
+221. http://www.library.cornell.edu/resrch/libguides/2
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Anthropology']
+222. http://www.library.cornell.edu/resrch/libguides/20
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Government, Law and Public Policy']
+223. http://www.library.cornell.edu/resrch/libguides/21
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' History']
+224. http://www.library.cornell.edu/resrch/libguides/22
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Human Resources, Labor & Employment']
+225. http://www.library.cornell.edu/resrch/libguides/23
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Library and Information Science']
+226. http://www.library.cornell.edu/resrch/libguides/24
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Linguistics, Language and Literature']
+227. http://www.library.cornell.edu/resrch/libguides/25
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Math and Statistics']
+228. http://www.library.cornell.edu/resrch/libguides/26
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Medicine - Human and Veterinary']
+229. http://www.library.cornell.edu/resrch/libguides/27
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Music']
+230. http://www.library.cornell.edu/resrch/libguides/28
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Philosophy and Religion']
+231. http://www.library.cornell.edu/resrch/libguides/29
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Physics and Astronomy']
+232. http://www.library.cornell.edu/resrch/libguides/3
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Art and Architecture']
+233. http://www.library.cornell.edu/resrch/libguides/30
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Population and Demography']
+234. http://www.library.cornell.edu/resrch/libguides/31
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Psychology']
+235. http://www.library.cornell.edu/resrch/libguides/32
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Research and Writing']
+236. http://www.library.cornell.edu/resrch/libguides/33
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Science and Technology']
+237. http://www.library.cornell.edu/resrch/libguides/34
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Social Sciences']
+238. http://www.library.cornell.edu/resrch/libguides/35
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Sociology and Rural Development']
+239. http://www.library.cornell.edu/resrch/libguides/37
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Area Studies']
+240. http://www.library.cornell.edu/resrch/libguides/38
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Biographies']
+241. http://www.library.cornell.edu/resrch/libguides/39
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Newspapers, Magazines and Current Events']
+242. http://www.library.cornell.edu/resrch/libguides/4
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Arts and Humanities']
+243. http://www.library.cornell.edu/resrch/libguides/40
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Statistical Information']
+244. http://www.library.cornell.edu/resrch/libguides/41
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Ethnic Studies']
+245. http://www.library.cornell.edu/resrch/libguides/42
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Theater, Film and Television']
+246. http://www.library.cornell.edu/resrch/libguides/5
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Biology']
+247. http://www.library.cornell.edu/resrch/libguides/6
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Business and Management']
+248. http://www.library.cornell.edu/resrch/libguides/7
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Chemistry']
+249. http://www.library.cornell.edu/resrch/libguides/8
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Communications']
+250. http://www.library.cornell.edu/resrch/libguides/9
+	PageRank = 0.000690984657789
+	Title = Library Guides | Cornell University Library
+	Anchor Text = [' Computers and Information Science']
+251. http://www.library.cornell.edu/resrch/rsrchform
+	PageRank = 0.00863046084831
+	Title = Research Consultation | Cornell University Library
+	Anchor Text = ['research consultation              appointment', 'Research Consultation']
+252. http://www.library.cornell.edu/sasa/sac.htm
+	PageRank = 0.000526244912665
+	Title = Kroch South Asia Collections
+	Anchor Text = ['http://asia.library.cornell.edu/ac/SouthAsia/']
+253. http://www.library.cornell.edu/scholarlycomm/affordable/
+	PageRank = 0.0017951325557
+	Title = Affordable Publishing
+	Anchor Text = ['Affordable Publishing', ' Affordable \n        Publishing ', 'Alternative\n    Publishing Models']
+254. http://www.library.cornell.edu/scholarlycomm/copyright/
+	PageRank = 0.0017951325557
+	Title = Transforming Scholarly Communication and Libraries
+	Anchor Text = ['Copyright Management', ' Copyright Management', 'Copyright\n    of Faculty Publications']
+255. http://www.library.cornell.edu/scholarlycomm/elsevier_canc2.html
+	PageRank = 0.000679293845542
+	Title = Transforming Scholarly Communication and Libraries
+	Anchor Text = ['list']
+256. http://www.library.cornell.edu/scholarlycomm/index.html
+	PageRank = 0.00193484339822
+	Title = Transforming Scholarly Communication and Libraries
+	Anchor Text = ['Home', 'Scholarly Communications', 'Transforming Scholarly Communication and Libraries']
+257. http://www.library.cornell.edu/scholarlycomm/openaccess/
+	PageRank = 0.00138397833358
+	Title = Open Access | Overview
+	Anchor Text = ['Open Access', 'Open \n                  Access', ' Open Access ']
+258. http://www.library.cornell.edu/scholarlycomm/resolution2.htm
+	PageRank = 0.000679293845542
+	Title = Transforming Scholarly Communication and Libraries
+	Anchor Text = ['resolution', 'Faculty \n              Senate resolution']
+259. http://www.library.cornell.edu/scholarlycomm/serials/
+	PageRank = 0.0017951325557
+	Title = Serials Pricing | Framing the Topic
+	Anchor Text = ['Serials \n        Pricing ', 'The\n    Crisis in Scholarly Publication Prices', 'Serials Pricing']
+260. http://www.library.cornell.edu/searchtips
+	PageRank = 0.000536584125406
+	Title = Search Tips: Articles | Cornell University Library
+	Anchor Text = ['Search Tips page for Articles']
+261. http://www.library.cornell.edu/services/email.html
+	PageRank = 0.0465393053712
+	Title = Libraries | Cornell University Library
+	Anchor Text = ['Libraries']
+262. http://www.library.cornell.edu/summon/about
+	PageRank = 0.000488561011498
+	Title = About Summon | Cornell University Library
+	Anchor Text = []
+263. http://www.library.cornell.edu/svcs
+	PageRank = 0.0468072036867
+	Title = Library Services | Cornell University Library
+	Anchor Text = ['Library Services']
+264. http://www.library.cornell.edu/svcs/borrow
+	PageRank = 0.00950158123689
+	Title = Borrowing and Delivery | Cornell University Library
+	Anchor Text = ['Borrowing and Delivery', 'Delivery Services', 'Borrowing']
+265. http://www.library.cornell.edu/svcs/borrow/2cul
+	PageRank = 0.00362668076274
+	Title = 2CUL: Borrowing Privileges at Columbia University | Cornell University Library
+	Anchor Text = ['more information']
+266. http://www.library.cornell.edu/svcs/borrow/bordir
+	PageRank = 0.0044110371145
+	Title = Borrow Direct | Cornell University Library
+	Anchor Text = ['http://www.library.cornell.edu/svcs/borrow/bordir', 'Borrow Direct', 'more info...']
+267. http://www.library.cornell.edu/svcs/borrow/cardhldr
+	PageRank = 0.000787684865252
+	Title = Card Holder Policies | Cornell University Library
+	Anchor Text = ['Library Card holders (guest borrowers)']
+268. http://www.library.cornell.edu/svcs/borrow/chkd
+	PageRank = 0.000891719103974
+	Title = Items That are Checked Out | Cornell University Library
+	Anchor Text = ['Items that are checked out', 'recall', 'more info...']
+269. http://www.library.cornell.edu/svcs/borrow/docdelfaq
+	PageRank = 0.00118331440466
+	Title = Document Delivery FAQ | Cornell University Library
+	Anchor Text = ['Document Delivery', 'Document Delivery FAQ', 'Document Delivery Request form', 'Electronic Document Delivery']
+270. http://www.library.cornell.edu/svcs/borrow/facstaff
+	PageRank = 0.000787684865252
+	Title = Faculty and Staff Policies | Cornell University Library
+	Anchor Text = ['Faculty\xa0and staff']
+271. http://www.library.cornell.edu/svcs/borrow/grad
+	PageRank = 0.000838982667236
+	Title = Graduate Student Policies | Cornell University Library
+	Anchor Text = ['Graduate Student Policies', 'Graduate students']
+272. http://www.library.cornell.edu/svcs/borrow/gradnewstatus
+	PageRank = 0.000844904973856
+	Title = Graduate Students  Undergoing a Change in Status | Cornell University Library
+	Anchor Text = ['Graduate students (undergoing a change in status)', 'see information about options']
+273. http://www.library.cornell.edu/svcs/borrow/illfaq
+	PageRank = 0.00105549783292
+	Title = Interlibrary Loan FAQ | Cornell University Library
+	Anchor Text = ['Interlibrary Loan']
+274. http://www.library.cornell.edu/svcs/borrow/othercul
+	PageRank = 0.0014972733556
+	Title = Items in Other Cornell Libraries | Cornell University Library
+	Anchor Text = ['Library-to-Library Book Delivery Service', 'more info...', 'Items in other Cornell libraries', 'http://www.library.cornell.edu/svcs/borrow/othercul']
+275. http://www.library.cornell.edu/svcs/borrow/proxy
+	PageRank = 0.000839187337211
+	Title = Proxy Borrowers | Cornell University Library
+	Anchor Text = ['Proxy Borrowers']
+276. http://www.library.cornell.edu/svcs/borrow/renew
+	PageRank = 0.000787684865252
+	Title = Renewing Books | Cornell University Library
+	Anchor Text = ['Renewing books']
+277. http://www.library.cornell.edu/svcs/borrow/returning
+	PageRank = 0.000787684865252
+	Title = Returning Books | Cornell University Library
+	Anchor Text = ['Returning books']
+278. http://www.library.cornell.edu/svcs/borrow/undergrad
+	PageRank = 0.000787684865252
+	Title = Undergraduate Policies | Cornell University Library
+	Anchor Text = ['Undergraduate students']
+279. http://www.library.cornell.edu/svcs/disability
+	PageRank = 0.00497691146618
+	Title = Disability Services | Cornell University Library
+	Anchor Text = ['Disability Services']
+280. http://www.library.cornell.edu/svcs/equipment/other
+	PageRank = 0.000711212313933
+	Title = Equipment | Cornell University Library
+	Anchor Text = ['http://www.library.cornell.edu/svcs/equipment/other']
+281. http://www.library.cornell.edu/svcs/equipment/printing
+	PageRank = 0.000711212313933
+	Title = Printing | Cornell University Library
+	Anchor Text = ['http://www.library.cornell.edu/svcs/equipment/printing']
+282. http://www.library.cornell.edu/svcs/equipment/tool_by_type/45
+	PageRank = 0.000488561011498
+	Title = Cornell University Library
+	Anchor Text = []
+283. http://www.library.cornell.edu/svcs/grad
+	PageRank = 0.00497691146618
+	Title = For Graduate Students | Cornell University Library
+	Anchor Text = ['For Grad Students', 'For Graduate Students']
+284. http://www.library.cornell.edu/svcs/libraryspaces
+	PageRank = 0.00577710244504
+	Title = Select Library Spaces | Cornell University Library
+	Anchor Text = ['Library Spaces', 'Select Library Spaces']
+285. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype
+	PageRank = 0.00122738284796
+	Title = All Library Spaces | Cornell University Library
+	Anchor Text = ['\x8b previous', '1', '\xab first', 'All Library Spaces']
+286. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/24
+	PageRank = 0.000734087865412
+	Title = Library Spaces: Cafe | Cornell University Library
+	Anchor Text = ['Caf\xe9s']
+287. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/37
+	PageRank = 0.000734087865412
+	Title = Library Spaces: Auditorium | Cornell University Library
+	Anchor Text = ['Auditoriums']
+288. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/38
+	PageRank = 0.000734087865412
+	Title = Library Spaces: Classroom | Cornell University Library
+	Anchor Text = ['Classrooms']
+289. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/39
+	PageRank = 0.000956739167847
+	Title = Library Spaces: Computer Lab | Cornell University Library
+	Anchor Text = ['http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/39', 'Computer Labs']
+290. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/40
+	PageRank = 0.000990051352229
+	Title = Library Spaces: Group Study Room | Cornell University Library
+	Anchor Text = ['\x8b previous', 'http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/40', '\xab first', '1', 'Group Study Rooms']
+291. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/40?page=1
+	PageRank = 0.000548671272169
+	Title = Library Spaces: Group Study Room | Cornell University Library
+	Anchor Text = ['2', 'last \xbb', 'next \x9b']
+292. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/41
+	PageRank = 0.000712309675903
+	Title = Library Spaces: Meeting Room | Cornell University Library
+	Anchor Text = ['\x8b previous', '1', '\xab first', 'Library Spaces: Meeting Room']
+293. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/41/53
+	PageRank = 0.000734087865412
+	Title = Library Spaces: Meeting Room for Students | Cornell University Library
+	Anchor Text = ['Students']
+294. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/41/54
+	PageRank = 0.000764227007232
+	Title = Library Spaces: Meeting Room for Faculty | Cornell University Library
+	Anchor Text = ['Faculty ', '\x8b previous', '\xab first', '1']
+295. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/41/54?page=1
+	PageRank = 0.000531867208575
+	Title = Library Spaces: Meeting Room for Faculty | Cornell University Library
+	Anchor Text = ['2', 'last \xbb', 'next \x9b']
+296. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/41/55
+	PageRank = 0.000764227007232
+	Title = Library Spaces: Meeting Room for Staff | Cornell University Library
+	Anchor Text = ['\x8b previous', '1', '\xab first', 'Staff']
+297. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/41/55?page=1
+	PageRank = 0.000531867208575
+	Title = Library Spaces: Meeting Room for Staff | Cornell University Library
+	Anchor Text = ['2', 'last \xbb', 'next \x9b']
+298. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/41?page=1
+	PageRank = 0.000531808384678
+	Title = Library Spaces: Meeting Room | Cornell University Library
+	Anchor Text = ['2', 'last \xbb', 'next \x9b']
+299. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype?page=1
+	PageRank = 0.00068741269237
+	Title = All Library Spaces | Cornell University Library
+	Anchor Text = ['\x8b previous', '2', 'next \x9b']
+300. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype?page=2
+	PageRank = 0.00068741269237
+	Title = All Library Spaces | Cornell University Library
+	Anchor Text = ['\x8b previous', '3', 'next \x9b']
+301. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype?page=3
+	PageRank = 0.00068741269237
+	Title = All Library Spaces | Cornell University Library
+	Anchor Text = ['\x8b previous', '4', 'next \x9b']
+302. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype?page=4
+	PageRank = 0.00068741269237
+	Title = All Library Spaces | Cornell University Library
+	Anchor Text = ['\x8b previous', '5', 'next \x9b']
+303. http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype?page=5
+	PageRank = 0.00068741269237
+	Title = All Library Spaces | Cornell University Library
+	Anchor Text = ['last \xbb', 'next \x9b', '6']
+304. http://www.library.cornell.edu/svcs/serve/
+	PageRank = 0.00841901413
+	Title = For Faculty and Instructors | Cornell University Library
+	Anchor Text = ['For Faculty and Instructors']
+305. http://www.library.cornell.edu/svcs/serve/classinst
+	PageRank = 0.00541085578156
+	Title = Workshops and Instruction | Cornell University Library
+	Anchor Text = ['Workshops and Instruction', 'Workshops and instruction sessions']
+306. http://www.library.cornell.edu/svcs/serve/office
+	PageRank = 0.00119345388213
+	Title = Faculty Office Delivery | Cornell University Library
+	Anchor Text = ['Books to be delivered to faculty offices', 'more info...', 'Office delivery']
+307. http://www.library.cornell.edu/svcs/serve/res
+	PageRank = 0.00346374622262
+	Title = Course Reserves | Cornell University Library
+	Anchor Text = ['Course Reserves', 'Course reserves', 'Course Reserves for Faculty and Instructors']
+308. http://www.library.cornell.edu/svcs/serve/res/printforms
+	PageRank = 0.000684839964113
+	Title = Printable Reserve Forms | Cornell University Library
+	Anchor Text = ['Printable forms']
+309. http://www.library.cornell.edu/svcs/serve/res/resinfo
+	PageRank = 0.000531970813667
+	Title = General Reserve Information | Cornell University Library
+	Anchor Text = ['General Reserve Information']
+310. http://www.library.cornell.edu/svcs/serve/res/resinfo/linking
+	PageRank = 0.000714984976888
+	Title = Linking to Library Resources | Cornell University Library
+	Anchor Text = ['How to create links to library resources', 'Linking to library resources']
+311. http://www.library.cornell.edu/svcs/serve/scholarly
+	PageRank = 0.00679984584691
+	Title = Digitization, Publishing, and Copyright | Cornell University Library
+	Anchor Text = ['Scholarly Publishing', 'Digitization, publishing, and copyright', 'Digitization, Publishing, and Copyright', 'Digitization and Digital Content Mangement']
+312. http://www.library.cornell.edu/svcs/socialnetworking
+	PageRank = 0.00247786716818
+	Title = Social-Networking Practices | Cornell University Library
+	Anchor Text = ['Social-Networking Practices']
+313. http://www.library.cornell.edu/svcs/workinst/coord
+	PageRank = 0.00125400824463
+	Title = Instruction Coordinators | Cornell University Library
+	Anchor Text = ['contact an instruction coordinator.', 'Instruction Coordinator']
+314. http://www.library.cornell.edu/taxonomy/term/6
+	PageRank = 0.000626615303836
+	Title = We Recommend | Cornell University Library
+	Anchor Text = ['\x8b previous', '1', '\xab first']
+315. http://www.library.cornell.edu/taxonomy/term/6?page=1
+	PageRank = 0.000626615303836
+	Title = We Recommend | Cornell University Library
+	Anchor Text = ['\x8b previous', '2', 'next \x9b']
+316. http://www.library.cornell.edu/taxonomy/term/6?page=2
+	PageRank = 0.000630593813701
+	Title = We Recommend | Cornell University Library
+	Anchor Text = ['\x8b previous', '3', 'next \x9b']
+317. http://www.library.cornell.edu/taxonomy/term/6?page=3
+	PageRank = 0.000626615303836
+	Title = We Recommend | Cornell University Library
+	Anchor Text = ['\x8b previous', '4', 'next \x9b']
+318. http://www.library.cornell.edu/taxonomy/term/6?page=4
+	PageRank = 0.000626615303836
+	Title = We Recommend | Cornell University Library
+	Anchor Text = ['5', 'last \xbb', 'next \x9b']
+319. http://www.library.cornell.edu/TROLS
+	PageRank = 0.000704725919159
+	Title = Teaching, Research, Outreach, and Learning Services | Cornell University Library
+	Anchor Text = ['Teaching, Research, Outreach, and Learning Services']
+320. http://www.library.cornell.edu/visualresources/copyright
+	PageRank = 0.000912819299782
+	Title = Copyright | Cornell University Library
+	Anchor Text = ['Copyright']
+321. http://www.library.cornell.edu/visualresources/digitization
+	PageRank = 0.000912819299782
+	Title = Digitization | Cornell University Library
+	Anchor Text = ['self-service scanning facilities', 'Digitization']
+322. http://www.library.cornell.edu/visualresources/equipment
+	PageRank = 0.000912819299782
+	Title = Equipment & Software | Cornell University Library
+	Anchor Text = ['Equipment & Software']
+323. http://www.library.cornell.edu/visualresources/faq
+	PageRank = 0.000912819299782
+	Title = FAQ | Cornell University Library
+	Anchor Text = ['FAQ']
+324. http://www.library.cornell.edu/visualresources/support
+	PageRank = 0.000912819299782
+	Title = Research Support | Cornell University Library
+	Anchor Text = ['Research Support']
+325. http://www.library.cornell.edu/visualresources/tools
+	PageRank = 0.00420541565304
+	Title = Research Tools | Cornell University Library
+	Anchor Text = ['Visual Resources', 'Research Tools', 'Visual resources', 'Visual Resources Web page']
+326. http://www.library.cornell.edu/wclsearchtips
+	PageRank = 0.000570757226966
+	Title = Search Tips: Catalog | Cornell University Library
+	Anchor Text = ['search tips', 'Catalog search tips']
+327. http://www.library.cornell.edu/wheredoi/software.html
+	PageRank = 0.000711212313933
+	Title = Software in the Libraries
+	Anchor Text = ['http://www.library.cornell.edu/wheredoi/software.html']
